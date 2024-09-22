@@ -1,6 +1,6 @@
 # RNA_seq_pipeline
 
-Introduction
+## Introduction
 
 In this project, I am working on Bacillus subtilis, a model organism in microbiology and biotechnology. Bacillus subtilis is a Gram-positive bacterium commonly found in soil and the gastrointestinal tracts of humans and other animals. It has been extensively studied because of its ability to form endospores, its use in industrial applications (like enzyme production), and its importance in understanding bacterial gene expression and regulation.
 
@@ -20,7 +20,7 @@ Objective of the Project
 
 The main objective of this project is to analyze RNA-seq data from Bacillus subtilis and understand how gene expression changes under different experimental conditions. We use an RNA-seq pipeline that takes raw sequencing data and processes it into a format that can be used for downstream analysis, like identifying differentially expressed genes.
 
-RNA-seq Pipeline
+## RNA-seq Pipeline
 
 This pipeline uses a combination of popular bioinformatics tools to process RNA-seq data. Below are the key steps involved in the pipeline:
 
@@ -52,11 +52,15 @@ chmod +x RNA_seq_pipeline.sh
 Make sure to have the necessary modules installed on your system before running the pipeline. These include FastQC, Trimmomatic, HISAT2, Samtools, and Subread.
 Refer the .sh file to undesrand about which modules to load
 
-Conclusion
+## Conclusion
 
 Through this RNA-seq pipeline, we aim to better understand the gene expression landscape of Bacillus subtilis under different conditions. This knowledge can help advance both scientific research and industrial applications that rely on the unique properties of this versatile bacterium.
 
 This README file provides a clear explanation of the project, the importance of Bacillus subtilis, and the pipeline steps. You can further customize this based on the specific experimental conditions or research goals you are focusing on.
+
+# Detail Explaination
+
+https://aiinbioinformatics.com/rna-seq-analysis-pipelin/
 
 
 
