@@ -56,18 +56,12 @@ Refer the .sh file to undesrand about which modules to load
 
 Through this RNA-seq pipeline, we aim to better understand the gene expression landscape of Bacillus subtilis under different conditions. This knowledge can help advance both scientific research and industrial applications that rely on the unique properties of this versatile bacterium.
 
-This README file provides a clear explanation of the project, the importance of Bacillus subtilis, and the pipeline steps. You can further customize this based on the specific experimental conditions or research goals you are focusing on.
+	•	Gene Regulation: We can identify genes that are upregulated or downregulated in response to specific environmental conditions, treatments, or stress.
+	•	Biotechnology: Understanding how Bacillus subtilis regulates enzyme production can help optimize industrial processes for large-scale enzyme production.
+	•	Sporulation and Stress Responses: By studying changes in gene expression during sporulation or stress, we can learn how Bacillus subtilis survives in harsh conditions, which is important in fields like microbiology and food safety.
 
-# Detail Explaination
+ # Detail Explaination
 
 https://aiinbioinformatics.com/rna-seq-analysis-pipelin/
 
 
-
-
-
-
-
-	•	Gene Regulation: We can identify genes that are upregulated or downregulated in response to specific environmental conditions, treatments, or stress.
-	•	Biotechnology: Understanding how Bacillus subtilis regulates enzyme production can help optimize industrial processes for large-scale enzyme production.
-	•	Sporulation and Stress Responses: By studying changes in gene expression during sporulation or stress, we can learn how Bacillus subtilis survives in harsh conditions, which is important in fields like microbiology and food safety.
